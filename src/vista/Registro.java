@@ -376,7 +376,7 @@ public class Registro extends javax.swing.JFrame {
             if(vali == 1){
                 JOptionPane.showMessageDialog(null,"EL NOMBRE DE USUARIO YA SE ENCUENTRA EN USO");
             }else{
-                  String Nombre = TextNombre.getText();
+                String Nombre = TextNombre.getText();
                 String  Apellido= TextApellido.getText();
                 String Direccion = TextDireccion.getText();
                 String NomUsuario = TextNomUsuario.getText();
